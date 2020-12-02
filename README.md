@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![LeLunZ's github stats](https://github-readme-stats.vercel.app/api?username=LeLunZ)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **LeLunZ/LeLunZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
